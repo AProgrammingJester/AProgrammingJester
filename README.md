@@ -1,10 +1,10 @@
-### Hi there my name is Tyler-Bryant and I'm a first-year at SNHU, going for a degree in Computer Science with a concentration in software development++. So far I love the courses I have done, learning abput the basics of programming, OOP, and how to read and create flowcharts or other kinds of documents. I do have a arsenal of sites, videos, books all of which have a variety of ways to help me create games, Websites, mobile apps. Later on in my academic journey i will have to learn/use C++, Javascript, Html, CSS, and SQL.
+### Hi, I’m Tyler-Bryant, a second-year student at SNHU pursuing a degree in Computer Science with a concentration in Software Development. I’m really enjoying my courses so far, especially the basics of programming, object-oriented programming (OOP), and learning how to read and create flowcharts and other documentation. I have a wealth of resources—websites, videos, and books—at my disposal to help me create games, websites, and mobile apps. As I continue my studies, I look forward to diving into C++, JavaScript, HTML, CSS, and SQL.
 
 
-# Also, when I find the time I'll update this once or twice a month, adding the projects I have finished or anything new that I'm learning about. P.S I'm not very good sharing my life online. So, here's to the first one.
-# 📫 How to reach me: I have a Linkedin, linkedin.com/in/tyler-bryant-b9227a27b
-# ⚡ Fun fact: I love listening to artist from Japan, genres are death metal, rock, jazz, rap.
-# 🔭 I’m currently working on getting my courses done which are Applied Social Science and Applied Statistics in STEM.
+## Also, when I find the time I'll update this once or twice a month, adding the projects I have finished or anything new that I'm learning about. P.S I'm not very good sharing my life online. So, here's to the first one.
+## 📫 How to reach me: I have a Linkedin, linkedin.com/in/tyler-bryant-b9227a27b
+## ⚡ Fun fact: I love listening to artist from Japan, genres are death metal, rock, jazz, rap.
+## 🔭 I’m currently working on getting my courses done which are Applied Social Science and Applied Statistics in STEM.
 
 
 <!--
