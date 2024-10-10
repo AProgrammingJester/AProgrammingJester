@@ -4,7 +4,7 @@
 # Also, when I find the time I'll update this once or twice a month, adding the projects I have finished or anything new that I'm learning about. P.S I'm not very good sharing my life online. So, here's to the first one.
 # 📫 How to reach me: I have a Linkedin, linkedin.com/in/tyler-bryant-b9227a27b
 # ⚡ Fun fact: I love listening to artist from Japan, genres are death metal, rock, jazz, rap.
-# 🔭 I’m currently working on getting my courses done which are Perspectives in Natural science and Found in App Development using Java.
+# 🔭 I’m currently working on getting my courses done which are Applied Social Science and Applied Statistics in STEM.
 
 
 <!--
