@@ -1,10 +1,11 @@
-### Hi, I’m Tyler-Bryant, a second-year student at SNHU pursuing a degree in Computer Science with a concentration in Software Development. I’m really enjoying my courses so far, especially the basics of programming, object-oriented programming (OOP), and learning how to read and create flowcharts and other documentation. I have a wealth of resources—websites, videos, and books—at my disposal to help me create games, websites, and mobile apps. As I continue my studies, I look forward to diving into C++, JavaScript, HTML, CSS, and SQL.
+### Hi, I’m Tyler-Bryant, a second-year Computer Science student at SNHU with a focus on Software Engineering. I’ve been thoroughly enjoying my courses so far, particularly the ones centered around programming and object-oriented design. I’m also developing skills in reading and creating flowcharts, writing documentation, and diving into algorithms. With a variety of resources—websites, tutorials, and books—at my fingertips, I’m constantly finding new ways to innovate and build exciting programs, websites, and mobile apps. As I continue my journey, I’m eager to expand my knowledge in languages like C++, JavaScript, HTML, and CSS, and take on even more complex challenges.
 
 
-## Also, when I find the time I'll update this once or twice a month, adding the projects I have finished or anything new that I'm learning about.
-## 📫 How to reach me: I have a Linkedin, linkedin.com/in/tyler-bryant-b9227a27b
-## ⚡ Fun fact: I love listening to artist from Japan, genres are death metal, rock, jazz, rap.
-## 🔭 I’m currently working on getting my courses done which are Applied Social Science and Applied Statistics in STEM.
+## Also, when I find the time I'll update this once or twice a month, adding the projects I have finished or anything new about me.
+## 📫 You can reach me on here or at linkedin.com/in/tyler-bryant-b9227a27b
+## ⚡ Fun fact: when I’m not coding, I enjoy listening to Japanese artists like Man With a Mission, Polkadot Stingray, and Mone Kamishiraishi. Their music keeps me energized and inspired while I work!
+## 🔭 My current courses are Applied Humanities and Introduction to Database Environment.
+## 🌱 So far, during my academic journey, I’ve had the opportunity to use programming languages like Python, Java, and MySQL, each of which has helped me strengthen my programming and problem-solving abilities.
 
 
 <!--
