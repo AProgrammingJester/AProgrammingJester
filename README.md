@@ -5,8 +5,7 @@
 ## 📫 You can reach me on here or at linkedin.com/in/tyler-bryant-b9227a27b
 ## ⚡ Fun fact: when I’m not studying or working, I enjoy listening to Japanese artists like Man With a Mission, Polkadot Stingray, and Mone Kamishiraishi. Their music keeps me energized and inspired even while I work!
 ## 🔭 My current courses are Applied Humanities and Introduction to Database Environment.
-## 🌱 So far, during my academic journey, I’ve had the opportunity to use programming languages like ![image](https://github.com/user-attachments/assets/dbaa2a57-fafe-4814-a1f3-2248cb2d7815)
-, Java, and MySQL.
+## 🌱 So far, during my academic journey, I’ve had the opportunity to use programming and query languages such as Python, Java, and MySQL.
 
 
 <!--
