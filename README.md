@@ -1,4 +1,4 @@
-### Hi, I’m Tyler-Bryant, a second-year Computer Science student at SNHU with a focus on Software Engineering. I’ve been thoroughly enjoying my courses so far, particularly the ones centered around programming and object-oriented design. I’m also developing skills in reading and creating flowcharts, writing documentation, and diving into algorithms. With a variety of resources—websites, tutorials, and books—at my fingertips, I’m constantly finding new ways to innovate and build exciting programs, websites, and mobile apps. As I continue my journey, I’m eager to expand my knowledge in languages like C++, JavaScript, HTML, and CSS, and take on even more complex challenges.
+### Hi, I’m Tyler-Bryant, a second-year Computer Science student at SNHU with a focus on Software Engineering. I’ve been thoroughly enjoying my courses so far.
 
 
 ## Also, when I find the time I'll update this once or twice a month, adding the projects I have finished or anything new about me.
