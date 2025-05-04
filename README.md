@@ -1,20 +1,24 @@
-### Hi, I’m Tyler Bryant, I'm a third-year Computer Science student at SNHU with a focus on Software Engineering.
+# Hi, I’m Tyler Bryant, I'm a third-year Computer Science student at SNHU with a focus on Software Engineering.
 
-## ⚡ Fun fact: when I’m not studying or working, I enjoy listening to Japanese artists like Man With a Mission, Polkadot Stingray, and Mone Kamishiraishi. Their music keeps me energized and inspired even while I work!
-## 🔭 My current courses are CS 230 Operating Systems and CS 250 Software Development Lifecycle.
+⚡ Fun fact: When I’m not studying or working, I enjoy listening to Japanese artists like MAN WITH A MISSION, Polkadot Stingray, and Mone Kamishiraishi. I also love to read—right now, I’m reading Halo: The Flood.
 
-<details>
-<summary>My top languages</summary>
+📫 My current courses are CS 230 Operating Systems and CS 250 Software Development Lifecycle.
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| C++       |
-|     3| Python    |
+### Follow me on LinkedIn(click on the icon below)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-b9227a27b)
 
-</details>
+# Programming languages
+![Programming languages](https://skillicons.dev/icons?i=java,cpp,python&theme=light)
 
+# Query language
+![Database & Tools](https://skillicons.dev/icons?i=mysql&theme=light)
+
+# IDE
+![My IDE](https://skillicons.dev/icons?i=eclipse,pycharm,visualstudio,vscode&theme=light)
+
+# Other tech
+![Tech](https://skillicons.dev/icons?i=windows,raspberrypi&theme=light)
 <!--
 **AManiacalJester/AManiacalJester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🌱 👯 🤔 💬.📫 🌱
+🌱 👯 🤔 💬.📫 🌱🔭
 -->
