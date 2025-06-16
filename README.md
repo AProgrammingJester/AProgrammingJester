@@ -13,7 +13,7 @@
 # Query language
 ![Database & Tools](https://skillicons.dev/icons?i=mysql&theme=light)
 
-# IDE
+# IDE and text editors
 ![My IDE](https://skillicons.dev/icons?i=eclipse,pycharm,visualstudio,vscode&theme=light)
 
 # Other tech
