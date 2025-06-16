@@ -7,17 +7,14 @@
 ### Follow me on LinkedIn(click on the icon below)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-b9227a27b)
 
-# Programming languages
-![Programming languages](https://skillicons.dev/icons?i=java,cpp,python&theme=light)
-
-# Query language
-![Database & Tools](https://skillicons.dev/icons?i=mysql&theme=light)
+# Programming and query languages
+![Programming languages](https://skillicons.dev/icons?i=java,cpp,python,mysql&theme=light)
 
 # IDE and text editors
 ![My IDE](https://skillicons.dev/icons?i=eclipse,pycharm,visualstudio,vscode&theme=light)
 
 # Other tech
-![Tech](https://skillicons.dev/icons?i=windows,raspberrypi&theme=light)
+![Tech](https://skillicons.dev/icons?i=windows,raspberrypi,linux&theme=light)
 <!--
 **AManiacalJester/AManiacalJester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🌱 👯 🤔 💬.📫 🌱🔭
