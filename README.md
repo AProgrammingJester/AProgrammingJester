@@ -11,10 +11,10 @@
 ![Programming languages](https://skillicons.dev/icons?i=java,cpp,python,mysql&theme=light)
 
 # IDE and text editors
-![My IDE](https://skillicons.dev/icons?i=eclipse,pycharm,visualstudio,vscode&theme=light)
+![My IDE](https://skillicons.dev/icons?i=eclipse,pycharm,idea,visualstudio,vscode&theme=light)
 
 # Other tech
-![Tech](https://skillicons.dev/icons?i=windows,raspberrypi,linux&theme=light)
+![Tech](https://skillicons.dev/icons?i=windows,raspberrypi,ubuntu&theme=light)
 <!--
 **AManiacalJester/AManiacalJester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🌱 👯 🤔 💬.📫 🌱🔭
