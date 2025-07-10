@@ -5,7 +5,7 @@
 📫 My current courses are CS 230 Operating Systems and CS 250 Software Development Lifecycle.
 
 ### Follow me on LinkedIn(click on the icon below)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/tyler-bryant-programming)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/)
 
 # Programming and query languages
 ![Programming languages](https://skillicons.dev/icons?i=java,cpp,python,mysql&theme=light)
