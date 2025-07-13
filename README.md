@@ -4,7 +4,7 @@
 
 📫 My current courses are CS 230 Operating Systems and CS 250 Software Development Lifecycle.
 
-Forgetting and making mistakes doesn’t mean you're failing — it means you're learning. That's the whole point of practising.
+Forgetting and making mistakes doesn’t mean you're failing — it means you're learning. That's the whole point of practicing.
 
 ### Follow me on LinkedIn(click on the icon below)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/)
