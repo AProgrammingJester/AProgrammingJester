@@ -4,7 +4,7 @@
 
 📫 My current courses are CS 305 Software Security and CS 319 UI/UX Design and Development.
 
-Forgetting and making mistakes doesn’t mean you're failing — it means you're learning. That's the whole point of practicing.
+Forgetting and making mistakes doesn’t mean you're failing, it means you're learning. That's the whole point of practicing.
 
 ### Follow me on LinkedIn(click on the icon below)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/)
