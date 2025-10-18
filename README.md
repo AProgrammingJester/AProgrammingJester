@@ -2,7 +2,7 @@
 
 ⚡ Fun fact: When I’m not studying or working, I enjoy listening to Japanese artists like MAN WITH A MISSION, Polkadot Stingray, and Mone Kamishiraishi. I also love to read—right now, I’m reading Halo: The Flood.
 
-📫 My current courses are CS 230 Operating Systems and CS 250 Software Development Lifecycle.
+📫 My current courses are CS 305 Software Security and CS 319 UI/UX Design and Development.
 
 Forgetting and making mistakes doesn’t mean you're failing — it means you're learning. That's the whole point of practicing.
 
