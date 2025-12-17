@@ -1,6 +1,6 @@
 # Hi, I’m Tyler Bryant, I'm a third-year Computer Science student at SNHU with a focus on Software Engineering.
 
-📫 My current courses are CS 305 Software Security and CS 319 UI/UX Design and Development. Upcoming courses are CS 320 Software Test, Automation QA and CS 330 Comp Graphic and Visualization.
+📫 My current courses are CS 320 Software Test, Automation QA and CS 330 Comp Graphic and Visualization. Upcoming courses are CS 340 Client/Server Development and CS 350 Emerging Sys Arch & Tech.
 
 Forgetting and making mistakes doesn’t mean you're failing, it means you're learning. So keep on coding.
 
