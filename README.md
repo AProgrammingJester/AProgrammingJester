@@ -10,8 +10,8 @@ Forgetting and making mistakes doesn’t mean you're failing, it means you're le
 # Programming and query languages
 ![Programming languages](https://skillicons.dev/icons?i=java,cpp,python,mysql&theme=light)
 
-# IDE and text editors
-![My IDE](https://skillicons.dev/icons?i=eclipse,pycharm,idea,visualstudio,vscode&theme=light)
+# IDE's
+![My IDE](https://skillicons.dev/icons?i=eclipse,pycharm,visualstudio&theme=light)
 
-# Other tech
+# Operating system's
 ![Tech](https://skillicons.dev/icons?i=windows,raspberrypi,ubuntu&theme=light)
