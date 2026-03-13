@@ -1,6 +1,6 @@
 # Hi, I’m Tyler Bryant, I'm a Senior Computer Science student at SNHU with a focus on Software Engineering.
 
-📫 My current courses are CS 340 Client/Server Development and CS 350 Emerging Sys Arch & Tech. Upcoming courses are CS 360 Mobile Architect & Programming and CS 370 Current/Emerging Trends in CS.
+📫 My current courses are CS 360 Mobile Architect & Programming and CS 370 Current/Emerging Trends in CS. Upcoming courses are CS-405 Secure Coding and CS-410 Software Reverse Engineering.
 
 ### Follow me on LinkedIn(click on the icon below)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/)
