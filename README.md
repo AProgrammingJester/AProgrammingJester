@@ -1,6 +1,6 @@
 # AProgrammingJester
 
-Hi 👋 my name is Tyler Bryant and I'm a **Computer Science student** at **Southern New Hampshire University (SNHU)**, expected to graduate in **September 2026** with a **B.S. in Computer Science** and a **Software Engineering Concentration**.
+Hi 👋 my name is Tyler Bryant and I'm a **Computer Science student** at **Southern New Hampshire University (SNHU)**, expected to graduate in **Fall 2026** with a **B.S. in Computer Science** and a **Software Engineering Concentration**.
 
 I’m building toward roles in **software development, full‑stack systems, and mobile‑focused applications**, with hands‑on experience in:
 - **Languages:** Python, Java, SQL, JavaScript  
