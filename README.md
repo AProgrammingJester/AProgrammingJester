@@ -18,7 +18,7 @@ This profile hosts my **course projects, personal experiments, and capstone work
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, Java, JavaScript, SQL  
+- **Languages:** Python, Java, SQL  
 - **Frameworks & Tech:** Web‑based full‑stack, mobile‑app concepts, relational databases  
 - **Tools:** Git, GitHub, Linux/CLI, VS Code or similar IDEs  
 - **Concepts:** DSA, SDLC, Software Testing, Security, Client/Server, Mobile Architecture  
