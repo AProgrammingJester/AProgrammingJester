@@ -24,7 +24,7 @@ Everything is focused on:
 - **Languages:** Python, Java, SQL, C++  
 - **Systems & Platforms:** Linux, Git, GitHub, CLI (Linux/Windows environments)  
 - **Core Concepts:** Data Structures & Algorithms, Client/Server Systems, Operating Systems, Software Testing, Security Fundamentals, SDLC  
-- **Tools:** VS Code, Git workflows, basic database tools  
+- **Tools:** VS Code, PyCharm, Eclipse, Notepad++, Git workflows, basic database tools  
 
 ---
 
