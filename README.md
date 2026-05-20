@@ -31,11 +31,10 @@ Everything is focused on:
 
 ## 🎯 Career Interests
 
-I am currently focused on building foundational skills toward:
-- IT Support / Help Desk  
+I am currently focused on building foundational skills toward: 
 - Systems Administration  
 - Cloud Infrastructure (AWS / Azure fundamentals)  
-- Software Development and automation  
+- Software Development / Engineering
 
 ---
 
