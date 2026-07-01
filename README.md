@@ -2,9 +2,6 @@
 
 Hi 👋 my name is Tyler Bryant and I'm a **Computer Science student** at **Southern New Hampshire University (SNHU)**, expected to graduate in **Fall 2026** with a **B.S. in Computer Science** and a **Software Engineering Concentration**.
 
-I’m building toward roles in **IT systems, software development, and cloud-focused environments**, with hands-on experience in:
-- **Areas:** Data Structures & Algorithms, Databases, Client/Server Systems, Operating Systems, Security, and Full-Stack Development  
-
 ---
 
 ## 🚀 What you’ll find here
