@@ -24,28 +24,6 @@ Everything is focused on:
 - **Development Tools:** VS Code, PyCharm, Eclipse, Notepad++  
 - **Version Control:** Git workflows and GitHub collaboration  
 
----
-
-## 🎯 Career Interests
-
-I am currently focused on building foundational skills toward: 
-- Systems Administration  
-- Cloud Infrastructure (AWS / Azure fundamentals)  
-- Software Development / Engineering
-
----
-
-<!---
-## 📌 Featured Repos
-
-These are some of my strongest projects:
-
-- DSA / Algorithms & Data Structures  
-- Client/Server Systems Project  
-- Operating Systems / Platform Concepts  
-- Software Security Project  
---->
-
 # LinkedIn: [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/)
 
 My GitHub is intentionally **public and beginner‑friendly**, I’m sharing my code to learn, grow, and hopefully connect with others who are doing the same. 🚀
