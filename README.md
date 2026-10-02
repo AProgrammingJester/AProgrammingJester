@@ -1,6 +1,6 @@
 # AProgrammingJester
 
-Hi 👋 my name is Tyler Bryant and I'm a **Computer Science graduate** from **Southern New Hampshire University (SNHU)**, I obtained my Bachelor of Science in **September 2026** for **Computer Science with a concentration in Software Engineering**.
+Hi 👋 my name is Tyler and I'm a **Computer Science graduate** from **Southern New Hampshire University (SNHU)**, I obtained my Bachelor of Science in **September 2026** for **Computer Science with a concentration in Software Engineering**.
 
 ---
 
