@@ -9,10 +9,9 @@ Hi 👋 my name is Tyler Bryant and I'm a **Computer Science graduate** from **S
 This profile hosts my **course projects, labs, and personal experiments** as I continue developing practical software and systems skills.
 
 Everything is focused on:
-- Writing clean, functional, and maintainable code  
-- Practicing modern workflows (Git, documentation, testing)  
+- Writing clean, functional, and maintainable code
 - Understanding how applications interact with operating systems, networks, and infrastructure  
-- Building familiarity with systems-level and cloud-related concepts  
+- Building familiarity with systems-level concepts
 
 ---
 
