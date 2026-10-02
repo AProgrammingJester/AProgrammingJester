@@ -20,9 +20,8 @@ Everything is focused on:
 
 - **Languages:** Python, Java, SQL, C++  
 - **Systems & Platforms:** Linux, Git, GitHub, Command Line Interface (CLI)  
-- **Core Concepts:** Data Structures & Algorithms, Client/Server Systems, Operating Systems, Software Testing, Security Fundamentals, SDLC  
-- **Development Tools:** VS Code, PyCharm, Eclipse, Notepad++  
-- **Version Control:** Git workflows and GitHub collaboration  
+- **Core Concepts:** Data Structures & Algorithms, Client/Server Systems, Operating Systems, Software Testing, Security Fundamentals, SDLC
+- **Version Control:** Git
 
 # LinkedIn: [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/)
 
