@@ -18,9 +18,11 @@ Everything is focused on:
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, Java, SQL, JavaScript  
+- **Languages:** Python, Java, NoSQL, JavaScript  
 - **Core Concepts:** Data Structures & Algorithms, Client/Server Systems, Operating Systems, Software Testing, Security Fundamentals
-- **Version Control:** Git
+- **Database:** MongoDB 
+- **Web Development:** MEAN Stack, Angular, Node.js, Express.js, REST APIs, JSON
+- **Frameworks:** Spring Boot, JUnit
 
 # LinkedIn: [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/)
 
