@@ -23,6 +23,6 @@ Everything is focused on:
 - **Web Development:** MEAN Stack, Angular, Node.js, Express.js, REST APIs, JSON
 - **Frameworks:** Spring Boot, JUnit
 
-# LinkedIn: [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/)
+# LinkedIn: [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/) (Icon leads to my Linkedin page)
 
 My GitHub is intentionally **public and beginner‑friendly**, I’m sharing my code to learn, grow, and hopefully connect with others who are doing the same. 🚀
