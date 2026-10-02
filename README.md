@@ -18,7 +18,7 @@ Everything is focused on:
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, Java, SQL, C++  
+- **Languages:** Python, Java, SQL, JavaScript  
 - **Core Concepts:** Data Structures & Algorithms, Client/Server Systems, Operating Systems, Software Testing, Security Fundamentals
 - **Version Control:** Git
 
