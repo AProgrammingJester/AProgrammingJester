@@ -21,7 +21,7 @@ Everything is focused on:
 - **Core Concepts:** Data Structures & Algorithms, Client/Server Systems, Operating Systems, Software Testing, Security Fundamentals
 - **Database:** MongoDB 
 - **Web Development:** MEAN Stack, Angular, Node.js, Express.js, REST APIs, JSON
-- **Frameworks:** Spring Boot, JUnit
+- **Frameworks:** Spring Boot, JUnit 5
 
 # LinkedIn: [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/tyler-bryant-programming/) (Click the icon)
 
